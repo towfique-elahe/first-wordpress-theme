@@ -22,9 +22,10 @@ This project is licensed under the [MIT License](https://choosealicense.com/lice
 
 ![image_141](https://github.com/towfique-elahe/first-wordpress-theme/assets/68939516/efd97afc-b2cd-4655-8d3d-68af93487d0f)
 
+![image](https://github.com/towfique-elahe/first-wordpress-theme/assets/68939516/8d1d4ebf-2194-4048-b0b3-d5178d3f2919)
+
 ![image_142](https://github.com/towfique-elahe/first-wordpress-theme/assets/68939516/2e606ad2-ad21-4efb-a9ad-fe44d1c83d29)
 
-![image_143](https://github.com/towfique-elahe/first-wordpress-theme/assets/68939516/253783ff-4065-43f8-84f9-466b6db35198)
 
 
 <p align="center">
