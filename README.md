@@ -2,7 +2,7 @@
 
 # About First Theme
 
-This repository contains the source code for the First Theme, it is my first WordPress Theme development. Below, you'll find an overview of the technical details and components used in the development of this website.
+This repository contains the source code for the First Theme, it is my first WordPress Theme development. I used a template from web as it was my first WordPress theme development. Below, you'll find an overview of the technical details and components used in the development of this website.
 
 ## Technologies Used
 
